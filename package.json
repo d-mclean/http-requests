@@ -1,0 +1,27 @@
+{
+  "name": "http-requests",
+  "version": "1.0.0",
+  "description": "LHL w2d1 http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-mclean/http-requests.git"
+  },
+  "keywords": [
+    "http",
+    "requests",
+    "js"
+  ],
+  "author": "Darcy McLean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-mclean/http-requests/issues"
+  },
+  "homepage": "https://github.com/d-mclean/http-requests#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
